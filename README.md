@@ -1,2 +1,2 @@
 # Java
-Labs in my 1st yr Java Programming course.
+Labs in Java. Algorithms and Data Structures
